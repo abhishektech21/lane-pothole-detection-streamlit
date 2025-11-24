@@ -59,19 +59,6 @@ The system supports **image upload**, **video upload**, and **live camera detect
 
 ---
 
-## 📁 Project Structure
-
-├── app.py
-├── rl_agent.py
-├── telegram_notifier.py
-├── best_lane.pt
-├── last.pt
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 🛠️ Installation (Local Setup)
 
 ### 1️⃣ Clone the repository
