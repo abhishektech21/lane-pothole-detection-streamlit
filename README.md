@@ -49,8 +49,8 @@ The system supports **image upload**, **video upload**, and **live camera detect
 
 | Component | Technology |
 |----------|------------|
-| Lane Detection | YOLOv8 |
-| Pothole Detection | YOLOv8 |
+| Lane Detection | YOLOv11 |
+| Pothole Detection | YOLOv11 |
 | RL Agent | Q-Learning |
 | Backend | Python |
 | Web App | Streamlit |
